@@ -2,8 +2,7 @@
 
 Next generation of [`react-bootstrap-table`](https://github.com/AllenFang/react-bootstrap-table)
 
-### This has been updated to stop compilation errors with React 18
-
+### This has been updated to stop compilation errors with React 17
 ## Usage
 
 ### Installation
